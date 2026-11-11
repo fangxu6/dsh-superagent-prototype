@@ -423,3 +423,5 @@ it('takes in what the queue holds after the cursor, once, and moves the cursor a
 9. Write the plugin entry and a loop that waits for setup, follows the switch, moves cursors after `receive`, keeps errors per item, reports health and stops on abort; name the cursors in `KV`.
 10. Add the build entry, the export and the `cordis.patch.yml` insert, and list the module and its spec in the tables of 007.
 11. Test it as `tests/sources.spec.ts` tests the other Sources.
+
+README.md was reviewed for the `reserch` typo; it does not appear, so no change was needed.
